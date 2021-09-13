@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = arthur.tamashiro@gmail.com
+	name = Arthur Tamashiro
